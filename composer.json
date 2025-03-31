@@ -1,0 +1,6 @@
+{
+    "require": {
+        "supabase/postgrest-php": "^0.0.4",
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
